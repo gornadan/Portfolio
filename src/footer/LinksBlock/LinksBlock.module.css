@@ -1,0 +1,12 @@
+.linksBlock {
+    /*background-color: aquamarine;*/
+    /*display: flex;*/
+    /*justify-content: space-between;*/
+    /*min-width: inherit;*/
+}
+
+.links {
+    text-decoration: none;
+    margin: 0px 5px;
+
+}
